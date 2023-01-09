@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\bin\Debug\net7.0\Ex02.exe
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\bin\Debug\net7.0\Ex02.deps.json
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\bin\Debug\net7.0\Ex02.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\bin\Debug\net7.0\Ex02.dll
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\bin\Debug\net7.0\Ex02.pdb
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\obj\Debug\net7.0\Ex02.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\obj\Debug\net7.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\obj\Debug\net7.0\Ex02.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\obj\Debug\net7.0\Ex02.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\obj\Debug\net7.0\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\obj\Debug\net7.0\Ex02.dll
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\obj\Debug\net7.0\refint\Ex02.dll
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\obj\Debug\net7.0\Ex02.pdb
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\obj\Debug\net7.0\Ex02.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Classes\Ex02\Ex02\obj\Debug\net7.0\ref\Ex02.dll
