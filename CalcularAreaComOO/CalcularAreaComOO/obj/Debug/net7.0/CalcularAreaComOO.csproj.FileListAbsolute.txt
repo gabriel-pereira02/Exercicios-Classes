@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\bin\Debug\net7.0\CalcularAreaComOO.exe
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\bin\Debug\net7.0\CalcularAreaComOO.deps.json
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\bin\Debug\net7.0\CalcularAreaComOO.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\bin\Debug\net7.0\CalcularAreaComOO.dll
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\bin\Debug\net7.0\CalcularAreaComOO.pdb
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\obj\Debug\net7.0\CalcularAreaComOO.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\obj\Debug\net7.0\CalcularAreaComOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\obj\Debug\net7.0\CalcularAreaComOO.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\obj\Debug\net7.0\CalcularAreaComOO.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\obj\Debug\net7.0\CalcularAreaComOO.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\obj\Debug\net7.0\CalcularAreaComOO.dll
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\obj\Debug\net7.0\refint\CalcularAreaComOO.dll
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\obj\Debug\net7.0\CalcularAreaComOO.pdb
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\obj\Debug\net7.0\CalcularAreaComOO.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Classes\CalcularAreaComOO\CalcularAreaComOO\obj\Debug\net7.0\ref\CalcularAreaComOO.dll
