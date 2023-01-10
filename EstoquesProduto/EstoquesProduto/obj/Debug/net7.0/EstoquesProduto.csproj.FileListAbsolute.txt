@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\bin\Debug\net7.0\EstoquesProduto.exe
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\bin\Debug\net7.0\EstoquesProduto.deps.json
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\bin\Debug\net7.0\EstoquesProduto.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\bin\Debug\net7.0\EstoquesProduto.dll
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\bin\Debug\net7.0\EstoquesProduto.pdb
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\obj\Debug\net7.0\EstoquesProduto.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\obj\Debug\net7.0\EstoquesProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\obj\Debug\net7.0\EstoquesProduto.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\obj\Debug\net7.0\EstoquesProduto.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\obj\Debug\net7.0\EstoquesProduto.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\obj\Debug\net7.0\EstoquesProduto.dll
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\obj\Debug\net7.0\refint\EstoquesProduto.dll
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\obj\Debug\net7.0\EstoquesProduto.pdb
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\obj\Debug\net7.0\EstoquesProduto.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Classes\EstoquesProduto\EstoquesProduto\obj\Debug\net7.0\ref\EstoquesProduto.dll
