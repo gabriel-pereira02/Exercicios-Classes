@@ -22,13 +22,18 @@ namespace EstoquesProduto
         public void AdicionarProdutos(int quantidade)
         {
             this.quantidade = this.quantidade + quantidade;
-            Console.WriteLine($"Estoque Atualizado:\nNome: {nome} | Preco: {preco} | Quantidade: {this.quantidade} | Total: R${ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}");
         }
 
         public void RemoverProdutos(int quantidade)
         {
             this.quantidade = this.quantidade - quantidade;
-            Console.WriteLine($"Estoque Atualizado:\nNome: {nome} | Preco: {preco} | Quantidade: {this.quantidade} | Total: R${ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}");
         }
+
+        public override string ToString()
+        {
+            return $"Nome: {nome} | Quantidade: {quantidade} | Preço: {preco} | Total: R${ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
+        }
+
+
     }
 }

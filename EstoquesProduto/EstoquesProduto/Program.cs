@@ -15,15 +15,17 @@ namespace EstoquesProduto
             Console.WriteLine("Quantidade: ");
             produto1.quantidade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Produto 01 - Nome: {produto1.nome} | Preço: {produto1.preco} | Quantidade: {produto1.quantidade} | Total: R${produto1.ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"Dados do Produto - " + produto1);
 
             Console.Write("Digite o número de produtos a ser adicionado: ");
             int quantidade = int.Parse(Console.ReadLine());
             produto1.AdicionarProdutos(quantidade);
+            Console.WriteLine($"Dados do Produto - " + produto1);
 
             Console.Write("Digite o número de produtos a ser removido: ");
             quantidade = int.Parse(Console.ReadLine());
             produto1.RemoverProdutos(quantidade);
+            Console.WriteLine($"Dados do Produto - " + produto1);
         }
     }
 }
