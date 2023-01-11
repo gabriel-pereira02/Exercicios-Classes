@@ -20,12 +20,12 @@ namespace Ex04
         public void AumentarSalario(double porcentagem)
         {
             SalarioBruto = SalarioBruto * ((porcentagem/100) + 1);
-            Console.WriteLine($"Dados Atualizados: {Nome}, {SalarioLiqudo()}");
+            Console.WriteLine($"Dados Atualizados: {Nome}, R${SalarioLiqudo()}");
         }
 
         public override string ToString()
         {
-            return $"{Nome}, {SalarioLiqudo()}"; 
+            return $"{Nome}, R${SalarioLiqudo()}"; 
         }
     }
 }
