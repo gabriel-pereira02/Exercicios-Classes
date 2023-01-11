@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.exe
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.deps.json
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.dll
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.pdb
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.dll
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\refint\MembrosEstaticos.dll
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.pdb
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Classes\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\ref\MembrosEstaticos.dll
