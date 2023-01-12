@@ -26,6 +26,8 @@ namespace EstoquesProduto
             qtd = int.Parse(Console.ReadLine());
             produto1.RemoverProdutos(qtd);
             Console.WriteLine($"Dados do Produto - " + produto1);
+
+            Produto produto2 = new Produto();
         }
     }
 }

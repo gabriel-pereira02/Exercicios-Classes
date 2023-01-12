@@ -28,6 +28,8 @@ namespace EstoquesProduto
             this.preco = preco;
         }
 
+        public Produto() { }
+
         public double ValorTotalEmEstoque()
         {
             double valorTotal = quantidade * preco;
