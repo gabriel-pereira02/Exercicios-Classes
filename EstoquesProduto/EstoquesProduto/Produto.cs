@@ -9,46 +9,74 @@ namespace EstoquesProduto
 {
     public class Produto
     {
-        public string nome;
-        public double preco;
-        public int quantidade;
+        private string _nome;
+        private double _preco;
+        private int _quantidade;
 
         /*
             Obriga o usuário, ao instanciar essa classe, a informar os seus atributos 
         */
         public Produto(string nome, double preco, int quantidade)
         {
-            this.nome = nome;
-            this.preco = preco;
-            this.quantidade = quantidade;
+            this._nome = nome;
+            this._preco = preco;
+            this._quantidade = quantidade;
         }
 
         public Produto(string nome, double preco) {
-            this.nome = nome;
-            this.preco = preco;
+            this._nome = nome;
+            this._preco = preco;
         }
 
-        public Produto() { }
+        public Produto() { 
+        }
+
+        public string GetNome()
+        {
+            return _nome;
+        }
+
+        public void SetNome(string nome)
+        {
+            if (nome != null)
+            {
+                _nome = nome;
+            }
+            else
+            {
+                Console.WriteLine("Não é possível atribuir um valor vazio ao nome");
+            }
+        }
+
+        public int GetQuantidade()
+        {
+            return _quantidade;
+        }
+
+        public double GetPreco()
+        {
+            return _preco;
+        }
 
         public double ValorTotalEmEstoque()
         {
-            double valorTotal = quantidade * preco;
+            double valorTotal = _quantidade * _preco;
             return valorTotal;
         }
 
         public void AdicionarProdutos(int quantidade)
         {
-            this.quantidade = this.quantidade + quantidade;
+            this._quantidade = this._quantidade + quantidade;
         }
 
         public void RemoverProdutos(int quantidade)
         {
-            this.quantidade = this.quantidade - quantidade;
+            this._quantidade = this._quantidade - quantidade;
         }
 
         public override string ToString()
         {
-            return $"Nome: {nome} | Quantidade: {quantidade} unidades | Preço: R${preco} | Total: R${ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
+            return $"Nome: {_nome} | Quantidade: {_quantidade} unidades | Preço: R${_preco} | Total: R${ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
         }
 
 
