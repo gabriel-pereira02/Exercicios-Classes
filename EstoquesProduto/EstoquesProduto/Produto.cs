@@ -13,6 +13,19 @@ namespace EstoquesProduto
         private double _preco;
         private int _quantidade;
 
+
+        public string Nome
+        {
+            get { return _nome; }
+            set
+            {
+                if(value != null)
+                {
+                    _nome = value;
+                }
+            }
+        }
+
         /*
             Obriga o usuário, ao instanciar essa classe, a informar os seus atributos 
         */
@@ -29,33 +42,6 @@ namespace EstoquesProduto
         }
 
         public Produto() { 
-        }
-
-        public string GetNome()
-        {
-            return _nome;
-        }
-
-        public void SetNome(string nome)
-        {
-            if (nome != null)
-            {
-                _nome = nome;
-            }
-            else
-            {
-                Console.WriteLine("Não é possível atribuir um valor vazio ao nome");
-            }
-        }
-
-        public int GetQuantidade()
-        {
-            return _quantidade;
-        }
-
-        public double GetPreco()
-        {
-            return _preco;
         }
 
         public double ValorTotalEmEstoque()
