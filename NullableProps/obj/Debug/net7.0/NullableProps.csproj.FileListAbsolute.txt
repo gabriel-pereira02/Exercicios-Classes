@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Classes\NullableProps\bin\Debug\net7.0\NullableProps.exe
+C:\Users\PICHAU\Desktop\Classes\NullableProps\bin\Debug\net7.0\NullableProps.deps.json
+C:\Users\PICHAU\Desktop\Classes\NullableProps\bin\Debug\net7.0\NullableProps.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Classes\NullableProps\bin\Debug\net7.0\NullableProps.dll
+C:\Users\PICHAU\Desktop\Classes\NullableProps\bin\Debug\net7.0\NullableProps.pdb
+C:\Users\PICHAU\Desktop\Classes\NullableProps\obj\Debug\net7.0\NullableProps.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Classes\NullableProps\obj\Debug\net7.0\NullableProps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Classes\NullableProps\obj\Debug\net7.0\NullableProps.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Classes\NullableProps\obj\Debug\net7.0\NullableProps.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Classes\NullableProps\obj\Debug\net7.0\NullableProps.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Classes\NullableProps\obj\Debug\net7.0\NullableProps.dll
+C:\Users\PICHAU\Desktop\Classes\NullableProps\obj\Debug\net7.0\refint\NullableProps.dll
+C:\Users\PICHAU\Desktop\Classes\NullableProps\obj\Debug\net7.0\NullableProps.pdb
+C:\Users\PICHAU\Desktop\Classes\NullableProps\obj\Debug\net7.0\NullableProps.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Classes\NullableProps\obj\Debug\net7.0\ref\NullableProps.dll
