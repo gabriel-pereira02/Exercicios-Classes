@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Classes\ExVetor\obj\Debug\net7.0\ExVetor.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Classes\ExVetor\obj\Debug\net7.0\ExVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Classes\ExVetor\obj\Debug\net7.0\ExVetor.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Classes\ExVetor\obj\Debug\net7.0\ExVetor.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Classes\ExVetor\obj\Debug\net7.0\ExVetor.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Classes\ExVetor\bin\Debug\net7.0\ExVetor.exe
+C:\Users\PICHAU\Desktop\Classes\ExVetor\bin\Debug\net7.0\ExVetor.deps.json
+C:\Users\PICHAU\Desktop\Classes\ExVetor\bin\Debug\net7.0\ExVetor.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Classes\ExVetor\bin\Debug\net7.0\ExVetor.dll
+C:\Users\PICHAU\Desktop\Classes\ExVetor\bin\Debug\net7.0\ExVetor.pdb
+C:\Users\PICHAU\Desktop\Classes\ExVetor\obj\Debug\net7.0\ExVetor.dll
+C:\Users\PICHAU\Desktop\Classes\ExVetor\obj\Debug\net7.0\refint\ExVetor.dll
+C:\Users\PICHAU\Desktop\Classes\ExVetor\obj\Debug\net7.0\ExVetor.pdb
+C:\Users\PICHAU\Desktop\Classes\ExVetor\obj\Debug\net7.0\ExVetor.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Classes\ExVetor\obj\Debug\net7.0\ref\ExVetor.dll
