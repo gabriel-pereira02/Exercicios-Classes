@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\bin\Debug\net7.0\ParamsVetores.exe
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\bin\Debug\net7.0\ParamsVetores.deps.json
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\bin\Debug\net7.0\ParamsVetores.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\bin\Debug\net7.0\ParamsVetores.dll
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\bin\Debug\net7.0\ParamsVetores.pdb
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\obj\Debug\net7.0\ParamsVetores.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\obj\Debug\net7.0\ParamsVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\obj\Debug\net7.0\ParamsVetores.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\obj\Debug\net7.0\ParamsVetores.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\obj\Debug\net7.0\ParamsVetores.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\obj\Debug\net7.0\ParamsVetores.dll
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\obj\Debug\net7.0\refint\ParamsVetores.dll
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\obj\Debug\net7.0\ParamsVetores.pdb
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\obj\Debug\net7.0\ParamsVetores.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Classes\ParamsVetores\ParamsVetores\obj\Debug\net7.0\ref\ParamsVetores.dll
