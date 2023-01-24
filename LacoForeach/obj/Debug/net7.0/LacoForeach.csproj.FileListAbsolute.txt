@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\bin\Debug\net7.0\LacoForeach.exe
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\bin\Debug\net7.0\LacoForeach.deps.json
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\bin\Debug\net7.0\LacoForeach.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\bin\Debug\net7.0\LacoForeach.dll
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\bin\Debug\net7.0\LacoForeach.pdb
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\obj\Debug\net7.0\LacoForeach.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\obj\Debug\net7.0\LacoForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\obj\Debug\net7.0\LacoForeach.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\obj\Debug\net7.0\LacoForeach.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\obj\Debug\net7.0\LacoForeach.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\obj\Debug\net7.0\LacoForeach.dll
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\obj\Debug\net7.0\refint\LacoForeach.dll
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\obj\Debug\net7.0\LacoForeach.pdb
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\obj\Debug\net7.0\LacoForeach.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\LacoForeach\obj\Debug\net7.0\ref\LacoForeach.dll
