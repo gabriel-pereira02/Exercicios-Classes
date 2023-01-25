@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\bin\Debug\net7.0\ExListas.exe
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\bin\Debug\net7.0\ExListas.deps.json
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\bin\Debug\net7.0\ExListas.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\bin\Debug\net7.0\ExListas.dll
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\bin\Debug\net7.0\ExListas.pdb
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\obj\Debug\net7.0\ExListas.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\obj\Debug\net7.0\ExListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\obj\Debug\net7.0\ExListas.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\obj\Debug\net7.0\ExListas.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\obj\Debug\net7.0\ExListas.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\obj\Debug\net7.0\ExListas.dll
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\obj\Debug\net7.0\refint\ExListas.dll
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\obj\Debug\net7.0\ExListas.pdb
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\obj\Debug\net7.0\ExListas.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Repositorios\Exercicios-Classes\ExListas\obj\Debug\net7.0\ref\ExListas.dll
