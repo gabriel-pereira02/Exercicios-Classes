@@ -16,5 +16,10 @@ namespace ExListas
         public void AumentarSalario(float porcentagem){
             Salario = Salario * (1+(porcentagem/100));
         }
+
+        public override string ToString()
+        {
+            return $"{Id}: {Nome}, R${Salario}";
+        }
     }
 }
